@@ -1,0 +1,1 @@
+document.write('Buenas buenas desde el body EXTERNO');
